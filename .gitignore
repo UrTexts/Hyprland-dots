@@ -1,0 +1,9 @@
+config/heroic/tools/
+config/heroic/Partitions/
+sync.sh
+config/heroic/
+.cache/
+*.iso
+*.zip
+*.tar.gz
+*.log

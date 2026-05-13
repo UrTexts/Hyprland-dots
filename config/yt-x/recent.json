@@ -1,0 +1,72 @@
+{
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "Iv-u8hwjHw4",
+      "url": "https://www.youtube.com/watch?v=Iv-u8hwjHw4",
+      "title": "How to make Jungle from the 90s",
+      "description": "How to make jungle from the 90s. This music production tutorial breaks down the retro techniques of 90s jungle producers, such ...",
+      "duration": 355.0,
+      "channel_id": "UCZD8E9dXDm1_udhhUBDp0nQ",
+      "channel": "Chris the Scientist",
+      "channel_url": "https://www.youtube.com/channel/UCZD8E9dXDm1_udhhUBDp0nQ",
+      "uploader": "Chris the Scientist",
+      "uploader_id": "@christhescientist",
+      "uploader_url": "https://www.youtube.com/@christhescientist",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Iv-u8hwjHw4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrSAeyFZlTDU7Uw3axIB7KNmN4PQ",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Iv-u8hwjHw4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsRwbqa1pW7wkxA4p8SviG72cSkg",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "timestamp": 1715299200,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 979759,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "YkfiEHTlyGA",
+      "url": "https://www.youtube.com/watch?v=YkfiEHTlyGA",
+      "title": "The EASIEST Hyprland Screenshot Tool | Hyprshot",
+      "description": "More Arch Videos https://www.youtube.com/watch?v=39CG2oWqB7o&list=PLKdkfeeKOmQ14AtlvdtQHmNQX0eBAPFsc More ...",
+      "duration": 179.0,
+      "channel_id": "UCf82H8u5tt-V4rvK1G9s9ig",
+      "channel": "Peter Tech",
+      "channel_url": "https://www.youtube.com/channel/UCf82H8u5tt-V4rvK1G9s9ig",
+      "uploader": "Peter Tech",
+      "uploader_id": "@petertech210",
+      "uploader_url": "https://www.youtube.com/@petertech210",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/YkfiEHTlyGA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoguZQqkFPtukLraDXE33Qf0ILPA",
+          "height": 202,
+          "width": 360
+        },
+        {
+          "url": "https://i.ytimg.com/vi/YkfiEHTlyGA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALSfptAGG3MNiJZvw6WGqxCFP3RQ",
+          "height": 404,
+          "width": 720
+        }
+      ],
+      "timestamp": 1765324800,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1434,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null
+    }
+  ]
+}

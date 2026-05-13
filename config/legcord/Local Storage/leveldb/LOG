@@ -1,0 +1,224 @@
+2026/05/11-16:35:03.057 ec9 Reusing MANIFEST /home/ethan/.config/legcord/Local Storage/leveldb/MANIFEST-000001
+2026/05/11-16:35:03.079 ec9 Recovering log #49
+2026/05/11-16:35:03.092 ec9 Level-0 table #52: started
+2026/05/11-16:35:03.135 ec9 Level-0 table #52: 120751 bytes OK
+2026/05/11-16:35:03.150 ec9 Delete type=0 #49
+2026/05/11-16:35:03.151 ef2 Compacting 4@0 + 1@1 files
+2026/05/11-16:35:03.200 ef2 Generated table #54@0: 40 keys, 186382 bytes
+2026/05/11-16:35:03.200 ef2 Compacted 4@0 + 1@1 files => 186382 bytes
+2026/05/11-16:35:03.210 ef2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/11-16:35:03.210 ef2 Delete type=2 #46
+2026/05/11-16:35:03.211 ef2 Delete type=2 #52
+2026/05/11-16:35:03.211 ef2 Delete type=2 #50
+2026/05/11-16:35:03.211 ef2 Delete type=2 #44
+2026/05/11-16:35:03.211 ef2 Delete type=2 #48
+2026/05/11-16:37:05.329 ec9 Level-0 table #56: started
+2026/05/11-16:37:05.339 ec9 Level-0 table #56: 175283 bytes OK
+2026/05/11-16:37:05.347 ec9 Delete type=0 #53
+2026/05/11-16:42:05.329 ef2 Level-0 table #58: started
+2026/05/11-16:42:05.336 ef2 Level-0 table #58: 35741 bytes OK
+2026/05/11-16:42:05.346 ef2 Delete type=0 #55
+2026/05/11-16:48:05.329 ec9 Level-0 table #60: started
+2026/05/11-16:48:05.336 ec9 Level-0 table #60: 33246 bytes OK
+2026/05/11-16:48:05.342 ec9 Delete type=0 #57
+2026/05/11-16:53:05.328 ef2 Level-0 table #62: started
+2026/05/11-16:53:05.333 ef2 Level-0 table #62: 31308 bytes OK
+2026/05/11-16:53:05.339 ef2 Delete type=0 #59
+2026/05/11-16:53:05.339 ef2 Compacting 4@0 + 1@1 files
+2026/05/11-16:53:05.353 ef2 Generated table #63@0: 44 keys, 196838 bytes
+2026/05/11-16:53:05.353 ef2 Compacted 4@0 + 1@1 files => 196838 bytes
+2026/05/11-16:53:05.360 ef2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/11-16:53:05.360 ef2 Delete type=2 #54
+2026/05/11-16:53:05.361 ef2 Delete type=2 #62
+2026/05/11-16:53:05.361 ef2 Delete type=2 #60
+2026/05/11-16:53:05.361 ef2 Delete type=2 #56
+2026/05/11-16:53:05.361 ef2 Delete type=2 #58
+2026/05/11-16:58:05.329 ef2 Level-0 table #65: started
+2026/05/11-16:58:05.336 ef2 Level-0 table #65: 31114 bytes OK
+2026/05/11-16:58:05.344 ef2 Delete type=0 #61
+2026/05/11-17:03:05.329 ef2 Level-0 table #67: started
+2026/05/11-17:03:05.337 ef2 Level-0 table #67: 140593 bytes OK
+2026/05/11-17:03:05.345 ef2 Delete type=0 #64
+2026/05/11-17:04:05.328 ec9 Level-0 table #69: started
+2026/05/11-17:04:05.336 ec9 Level-0 table #69: 116578 bytes OK
+2026/05/11-17:04:05.345 ec9 Delete type=0 #66
+2026/05/11-17:09:05.329 ec9 Level-0 table #71: started
+2026/05/11-17:09:05.334 ec9 Level-0 table #71: 31369 bytes OK
+2026/05/11-17:09:05.341 ec9 Delete type=0 #68
+2026/05/11-17:09:05.342 ec9 Compacting 4@0 + 1@1 files
+2026/05/11-17:09:05.354 ec9 Generated table #72@0: 44 keys, 196459 bytes
+2026/05/11-17:09:05.354 ec9 Compacted 4@0 + 1@1 files => 196459 bytes
+2026/05/11-17:09:05.360 ec9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/11-17:09:05.361 ec9 Delete type=2 #71
+2026/05/11-17:09:05.361 ec9 Delete type=2 #65
+2026/05/11-17:09:05.361 ec9 Delete type=2 #63
+2026/05/11-17:09:05.362 ec9 Delete type=2 #67
+2026/05/11-17:09:05.362 ec9 Delete type=2 #69
+2026/05/11-17:14:05.329 ec9 Level-0 table #74: started
+2026/05/11-17:14:05.340 ec9 Level-0 table #74: 31083 bytes OK
+2026/05/11-17:14:05.347 ec9 Delete type=0 #70
+2026/05/11-17:19:05.329 ef2 Level-0 table #76: started
+2026/05/11-17:19:05.335 ef2 Level-0 table #76: 31408 bytes OK
+2026/05/11-17:19:05.342 ef2 Delete type=0 #73
+2026/05/11-17:24:05.329 ef2 Level-0 table #78: started
+2026/05/11-17:24:05.335 ef2 Level-0 table #78: 31509 bytes OK
+2026/05/11-17:24:05.342 ef2 Delete type=0 #75
+2026/05/11-17:29:05.329 ef2 Level-0 table #80: started
+2026/05/11-17:29:05.339 ef2 Level-0 table #80: 31035 bytes OK
+2026/05/11-17:29:05.349 ef2 Delete type=0 #77
+2026/05/11-17:29:05.350 ef2 Compacting 4@0 + 1@1 files
+2026/05/11-17:29:05.370 ef2 Generated table #81@0: 44 keys, 196438 bytes
+2026/05/11-17:29:05.370 ef2 Compacted 4@0 + 1@1 files => 196438 bytes
+2026/05/11-17:29:05.376 ef2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/11-17:29:05.376 ef2 Delete type=2 #76
+2026/05/11-17:29:05.376 ef2 Delete type=2 #78
+2026/05/11-17:29:05.377 ef2 Delete type=2 #80
+2026/05/11-17:29:05.377 ef2 Delete type=2 #74
+2026/05/11-17:29:05.377 ef2 Delete type=2 #72
+2026/05/11-17:31:05.329 ef2 Level-0 table #83: started
+2026/05/11-17:31:05.339 ef2 Level-0 table #83: 120591 bytes OK
+2026/05/11-17:31:05.345 ef2 Delete type=0 #79
+2026/05/11-17:33:05.328 ef2 Level-0 table #85: started
+2026/05/11-17:33:05.334 ef2 Level-0 table #85: 120899 bytes OK
+2026/05/11-17:33:05.340 ef2 Delete type=0 #82
+2026/05/11-17:35:05.328 ef2 Level-0 table #87: started
+2026/05/11-17:35:05.335 ef2 Level-0 table #87: 120804 bytes OK
+2026/05/11-17:35:05.341 ef2 Delete type=0 #84
+2026/05/11-17:38:05.328 ef2 Level-0 table #89: started
+2026/05/11-17:38:05.336 ef2 Level-0 table #89: 126584 bytes OK
+2026/05/11-17:38:05.344 ef2 Delete type=0 #86
+2026/05/11-17:38:05.344 ef2 Compacting 4@0 + 1@1 files
+2026/05/11-17:38:05.355 ef2 Generated table #90@0: 44 keys, 196726 bytes
+2026/05/11-17:38:05.355 ef2 Compacted 4@0 + 1@1 files => 196726 bytes
+2026/05/11-17:38:05.360 ef2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/11-17:38:05.361 ef2 Delete type=2 #81
+2026/05/11-17:38:05.361 ef2 Delete type=2 #83
+2026/05/11-17:38:05.361 ef2 Delete type=2 #85
+2026/05/11-17:38:05.361 ef2 Delete type=2 #89
+2026/05/11-17:38:05.361 ef2 Delete type=2 #87
+2026/05/11-17:39:05.333 ef2 Level-0 table #92: started
+2026/05/11-17:39:05.346 ef2 Level-0 table #92: 115639 bytes OK
+2026/05/11-17:39:05.355 ef2 Delete type=0 #88
+2026/05/11-17:43:05.329 ef2 Level-0 table #94: started
+2026/05/11-17:43:05.339 ef2 Level-0 table #94: 34188 bytes OK
+2026/05/11-17:43:05.350 ef2 Delete type=0 #91
+2026/05/11-17:55:33.401 ef2 Level-0 table #96: started
+2026/05/11-17:55:33.408 ef2 Level-0 table #96: 109098 bytes OK
+2026/05/11-17:55:33.416 ef2 Delete type=0 #93
+2026/05/11-18:34:14.080 ef2 Level-0 table #98: started
+2026/05/11-18:34:14.093 ef2 Level-0 table #98: 109436 bytes OK
+2026/05/11-18:34:14.103 ef2 Delete type=0 #95
+2026/05/11-18:34:14.104 ef2 Compacting 4@0 + 1@1 files
+2026/05/11-18:34:14.126 ef2 Generated table #99@0: 44 keys, 196848 bytes
+2026/05/11-18:34:14.126 ef2 Compacted 4@0 + 1@1 files => 196848 bytes
+2026/05/11-18:34:14.132 ef2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/11-18:34:14.133 ef2 Delete type=2 #96
+2026/05/11-18:34:14.133 ef2 Delete type=2 #92
+2026/05/11-18:34:14.133 ef2 Delete type=2 #94
+2026/05/11-18:34:14.134 ef2 Delete type=2 #90
+2026/05/11-18:34:14.134 ef2 Delete type=2 #98
+2026/05/11-19:06:48.341 ef2 Level-0 table #101: started
+2026/05/11-19:06:48.354 ef2 Level-0 table #101: 109561 bytes OK
+2026/05/11-19:06:48.364 ef2 Delete type=0 #97
+2026/05/11-19:24:07.322 ef2 Level-0 table #103: started
+2026/05/11-19:24:07.336 ef2 Level-0 table #103: 113969 bytes OK
+2026/05/11-19:24:07.344 ef2 Delete type=0 #100
+2026/05/11-19:37:01.738 ef2 Level-0 table #105: started
+2026/05/11-19:37:01.750 ef2 Level-0 table #105: 108737 bytes OK
+2026/05/11-19:37:01.757 ef2 Delete type=0 #102
+2026/05/11-19:39:17.506 ef2 Level-0 table #107: started
+2026/05/11-19:39:17.514 ef2 Level-0 table #107: 108802 bytes OK
+2026/05/11-19:39:17.521 ef2 Delete type=0 #104
+2026/05/11-19:39:17.522 ef2 Compacting 4@0 + 1@1 files
+2026/05/11-19:39:17.531 ef2 Generated table #108@0: 44 keys, 197210 bytes
+2026/05/11-19:39:17.531 ef2 Compacted 4@0 + 1@1 files => 197210 bytes
+2026/05/11-19:39:17.538 ef2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/11-19:39:17.539 ef2 Delete type=2 #103
+2026/05/11-19:39:17.539 ef2 Delete type=2 #101
+2026/05/11-19:39:17.539 ef2 Delete type=2 #105
+2026/05/11-19:39:17.539 ef2 Delete type=2 #99
+2026/05/11-19:39:17.539 ef2 Delete type=2 #107
+2026/05/11-19:45:37.282 ef2 Level-0 table #110: started
+2026/05/11-19:45:37.295 ef2 Level-0 table #110: 115138 bytes OK
+2026/05/11-19:45:37.302 ef2 Delete type=0 #106
+2026/05/11-19:46:50.471 ef2 Level-0 table #112: started
+2026/05/11-19:46:50.485 ef2 Level-0 table #112: 108207 bytes OK
+2026/05/11-19:46:50.495 ef2 Delete type=0 #109
+2026/05/11-19:48:00.378 ef2 Level-0 table #114: started
+2026/05/11-19:48:00.391 ef2 Level-0 table #114: 115105 bytes OK
+2026/05/11-19:48:00.398 ef2 Delete type=0 #111
+2026/05/11-19:50:17.359 ef2 Level-0 table #116: started
+2026/05/11-19:50:17.373 ef2 Level-0 table #116: 115233 bytes OK
+2026/05/11-19:50:17.383 ef2 Delete type=0 #113
+2026/05/11-19:50:17.384 ef2 Compacting 4@0 + 1@1 files
+2026/05/11-19:50:17.407 ef2 Generated table #117@0: 44 keys, 197316 bytes
+2026/05/11-19:50:17.408 ef2 Compacted 4@0 + 1@1 files => 197316 bytes
+2026/05/11-19:50:17.416 ef2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/11-19:50:17.417 ef2 Delete type=2 #112
+2026/05/11-19:50:17.417 ef2 Delete type=2 #114
+2026/05/11-19:50:17.417 ef2 Delete type=2 #108
+2026/05/11-19:50:17.417 ef2 Delete type=2 #116
+2026/05/11-19:50:17.417 ef2 Delete type=2 #110
+2026/05/11-19:57:32.163 ef2 Level-0 table #119: started
+2026/05/11-19:57:32.173 ef2 Level-0 table #119: 108172 bytes OK
+2026/05/11-19:57:32.180 ef2 Delete type=0 #115
+2026/05/11-20:07:02.724 ef2 Level-0 table #121: started
+2026/05/11-20:07:02.737 ef2 Level-0 table #121: 108120 bytes OK
+2026/05/11-20:07:02.747 ef2 Delete type=0 #118
+2026/05/11-20:54:54.847 ef2 Level-0 table #123: started
+2026/05/11-20:54:54.861 ef2 Level-0 table #123: 108172 bytes OK
+2026/05/11-20:54:54.870 ef2 Delete type=0 #120
+2026/05/11-22:14:23.335 ef2 Level-0 table #125: started
+2026/05/11-22:14:23.347 ef2 Level-0 table #125: 108114 bytes OK
+2026/05/11-22:14:23.355 ef2 Delete type=0 #122
+2026/05/11-22:14:23.355 ef2 Compacting 4@0 + 1@1 files
+2026/05/11-22:14:23.378 ef2 Generated table #126@0: 44 keys, 197191 bytes
+2026/05/11-22:14:23.379 ef2 Compacted 4@0 + 1@1 files => 197191 bytes
+2026/05/11-22:14:23.385 ef2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/11-22:14:23.386 ef2 Delete type=2 #123
+2026/05/11-22:14:23.387 ef2 Delete type=2 #121
+2026/05/11-22:14:23.387 ef2 Delete type=2 #125
+2026/05/11-22:14:23.388 ef2 Delete type=2 #119
+2026/05/11-22:14:23.388 ef2 Delete type=2 #117
+2026/05/12-08:56:34.916 ef2 Level-0 table #128: started
+2026/05/12-08:56:34.926 ef2 Level-0 table #128: 14826 bytes OK
+2026/05/12-08:56:34.936 ef2 Delete type=0 #124
+2026/05/12-14:20:30.905 ef2 Level-0 table #130: started
+2026/05/12-14:20:30.913 ef2 Level-0 table #130: 109538 bytes OK
+2026/05/12-14:20:30.921 ef2 Delete type=0 #127
+2026/05/12-15:28:36.895 ef2 Level-0 table #132: started
+2026/05/12-15:28:36.906 ef2 Level-0 table #132: 108038 bytes OK
+2026/05/12-15:28:36.913 ef2 Delete type=0 #129
+2026/05/12-16:30:16.751 ec9 Level-0 table #134: started
+2026/05/12-16:30:16.760 ec9 Level-0 table #134: 108316 bytes OK
+2026/05/12-16:30:16.768 ec9 Delete type=0 #131
+2026/05/12-16:30:16.768 ec9 Compacting 4@0 + 1@1 files
+2026/05/12-16:30:16.778 ec9 Generated table #135@0: 44 keys, 197475 bytes
+2026/05/12-16:30:16.778 ec9 Compacted 4@0 + 1@1 files => 197475 bytes
+2026/05/12-16:30:16.785 ec9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/12-16:30:16.786 ec9 Delete type=2 #128
+2026/05/12-16:30:16.786 ec9 Delete type=2 #130
+2026/05/12-16:30:16.786 ec9 Delete type=2 #134
+2026/05/12-16:30:16.786 ec9 Delete type=2 #132
+2026/05/12-16:30:16.786 ec9 Delete type=2 #126
+2026/05/12-19:24:57.642 ec9 Level-0 table #137: started
+2026/05/12-19:24:57.651 ec9 Level-0 table #137: 115703 bytes OK
+2026/05/12-19:24:57.659 ec9 Delete type=0 #133
+2026/05/12-21:31:50.225 ec9 Level-0 table #139: started
+2026/05/12-21:31:50.238 ec9 Level-0 table #139: 118408 bytes OK
+2026/05/12-21:31:50.244 ec9 Delete type=0 #136
+2026/05/12-23:50:09.283 ef2 Level-0 table #141: started
+2026/05/12-23:50:09.290 ef2 Level-0 table #141: 115584 bytes OK
+2026/05/12-23:50:09.298 ef2 Delete type=0 #138
+2026/05/13-00:22:17.831 ef2 Level-0 table #143: started
+2026/05/13-00:22:17.852 ef2 Level-0 table #143: 108022 bytes OK
+2026/05/13-00:22:17.860 ef2 Delete type=0 #140
+2026/05/13-00:22:17.861 ef2 Compacting 4@0 + 1@1 files
+2026/05/13-00:22:17.894 ef2 Generated table #144@0: 46 keys, 197489 bytes
+2026/05/13-00:22:17.896 ef2 Compacted 4@0 + 1@1 files => 197489 bytes
+2026/05/13-00:22:17.903 ef2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/13-00:22:17.904 ef2 Delete type=2 #137
+2026/05/13-00:22:17.905 ef2 Delete type=2 #139
+2026/05/13-00:22:17.905 ef2 Delete type=2 #143
+2026/05/13-00:22:17.905 ef2 Delete type=2 #141
+2026/05/13-00:22:17.905 ef2 Delete type=2 #135

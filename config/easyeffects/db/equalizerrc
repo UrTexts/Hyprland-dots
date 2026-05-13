@@ -1,0 +1,7 @@
+[sie][Equalizer#0#left]
+band0Gain=-36
+band15Gain=0.01
+
+[sie][Equalizer#0#right]
+band0Gain=-36
+band15Gain=0.01
