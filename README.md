@@ -123,6 +123,7 @@ yay -S hyprshot matugen wlogout ncspot yt-x
 ```bash
 git clone https://github.com/UrTexts/Hyprland-dots.git ~/dotfiles
 cd ~/dotfiles
+chmod +x install.sh
 bash install.sh
 ```
 
@@ -176,6 +177,6 @@ Copies all configs and pushes to GitHub automatically.
 
 <div align="center">
 
-*built on arch, vibes from the forest* 🌲
+*built on arch, from the forest* 🌲
 
 </div>
