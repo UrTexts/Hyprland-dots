@@ -150,7 +150,13 @@ Hyprlock is configured with a blurred Ghibli wallpaper, JetBrains Mono clock, an
 To lock manually:
 
 ```bash
-hyprlock
+$mainMod + L
+```
+
+My config also uses wlogout. To use:
+
+```bash
+$mainMod + M
 ```
 
 ---
