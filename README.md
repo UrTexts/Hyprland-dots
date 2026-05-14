@@ -29,7 +29,7 @@
 
 <img src="preview.png" alt="preview" width="100%" />
 
-> *nvim + neofetch on Kitty — Everforest dark, Ghibli wallpaper*
+> *nvim, cbonsai, + neofetch on Kitty — Everforest dark, Ghibli wallpaper*
 
 </div>
 
