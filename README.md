@@ -1,58 +1,125 @@
 <div align="center">
 
-# 🌿 Hyprland Dots
+<img src="config/Ghibli.png" alt="wallpaper" width="100%" style="border-radius: 12px;" />
 
-**Everforest-themed Hyprland rice for Arch Linux**
+<br/>
+<br/>
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+```
+ ██╗  ██╗██╗   ██╗██████╗ ██████╗ ██╗      █████╗ ███╗   ██╗██████╗
+ ██║  ██║╚██╗ ██╔╝██╔══██╗██╔══██╗██║     ██╔══██╗████╗  ██║██╔══██╗
+ ███████║ ╚████╔╝ ██████╔╝██████╔╝██║     ███████║██╔██╗ ██║██║  ██║
+ ██╔══██║  ╚██╔╝  ██╔═══╝ ██╔══██╗██║     ██╔══██║██║╚██╗██║██║  ██║
+ ██║  ██║   ██║   ██║     ██║  ██║███████╗██║  ██║██║ ╚████║██████╔╝
+ ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
+```
+
+### 🌿 *a rainy day in the forest* 🌿
+
+<br/>
+
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-A7C080?style=for-the-badge)
+![Everforest](https://img.shields.io/badge/Everforest-A7C080?style=for-the-badge&logoColor=1E2326)
+![Neovim](https://img.shields.io/badge/NvChad-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-F09383?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
 </div>
 
 ---
 
-## 🗂 Configs Included
+<div align="center">
 
-| App | Role |
-|-----|------|
-| [Hyprland](https://hyprland.org/) | Window manager |
-| [Hyprlock](https://github.com/hyprwm/hyprlock) | Lock screen |
-| [Hyprpaper](https://github.com/hyprwm/hyprpaper) | Wallpaper daemon |
-| [Hypridle](https://github.com/hyprwm/hypridle) | Idle daemon |
-| [Waybar](https://github.com/Alexays/Waybar) | Status bar |
-| [Kitty](https://sw.kovidgoyal.net/kitty/) | Terminal |
-| [Wofi](https://hg.sr.ht/~scoopta/wofi) | App launcher |
-| [Wlogout](https://github.com/ArtsyMacaw/wlogout) | Logout menu |
-| [Dunst](https://dunst-project.org/) | Notifications |
-| [Neovim](https://neovim.io/) | Text editor (NvChad) |
-| [EasyEffects](https://github.com/wwmm/easyeffects) | Mic EQ (Blue Snowball) |
-| [MPV](https://mpv.io/) | Media player |
-| [Starship](https://starship.rs/) | Shell prompt |
-| [Neofetch](https://github.com/dylanaraps/neofetch) | System info |
-| [ncspot](https://github.com/hrkfdn/ncspot) | Terminal Spotify client |
+## 📸 Preview
+
+<img src="preview.png" alt="preview" width="100%" />
+
+> *nvim + neofetch on Kitty — Everforest dark, Ghibli wallpaper*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 Palette
+
+|  | Color | Hex | Role |
+|--|-------|-----|------|
+| 🟫 | ![#1E2326](https://placehold.co/18x18/1E2326/1E2326.png) | `#1E2326` | Background |
+| 🟩 | ![#2E383C](https://placehold.co/18x18/2E383C/2E383C.png) | `#2E383C` | Surface |
+| 🟨 | ![#D3C6AA](https://placehold.co/18x18/D3C6AA/D3C6AA.png) | `#D3C6AA` | Foreground |
+| 🟢 | ![#A7C080](https://placehold.co/18x18/A7C080/A7C080.png) | `#A7C080` | Green (accent) |
+| 🔵 | ![#7FBBB3](https://placehold.co/18x18/7FBBB3/7FBBB3.png) | `#7FBBB3` | Blue |
+| 🟣 | ![#D699B6](https://placehold.co/18x18/D699B6/D699B6.png) | `#D699B6` | Purple |
+| 🔴 | ![#E67E80](https://placehold.co/18x18/E67E80/E67E80.png) | `#E67E80` | Red |
+| 🟠 | ![#E69875](https://placehold.co/18x18/E69875/E69875.png) | `#E69875` | Orange |
+
+</div>
+
+---
+
+## 🗂 What's Inside
+
+```
+~/.config/
+├── 🪟  hypr/          Hyprland · Hyprlock · Hyprpaper · Hypridle
+├── 📊  waybar/        Status bar
+├── 🐱  kitty/         Terminal (Everforest theme + cursor trail)
+├── 🔍  wofi/          App launcher
+├── 🚪  wlogout/       Logout menu
+├── 🔔  dunst/         Notifications
+├── 📝  nvim/          Neovim (NvChad)
+├── 🎵  easyeffects/   Mic EQ for Blue Snowball
+├── 🎶  ncspot/        Terminal Spotify client
+├── 🎬  mpv/           Media player
+├── ⭐  starship.toml  Shell prompt
+├── 🖥  neofetch/      System info
+├── 📁  session/       Session config
+├── 🎥  yt-x/          YouTube TUI
+└── 🖼  Ghibli.png     Wallpaper
+```
 
 ---
 
 ## 📦 Dependencies
 
-### Pacman
+<details>
+<summary><b>Pacman packages</b></summary>
+
 ```bash
-sudo pacman -S hyprland hyprpaper hyprlock hypridle xdg-desktop-portal-hyprland \
-  waybar wofi dunst kitty neovim starship neofetch mpv dolphin \
-  pipewire pipewire-pulse wireplumber easyeffects satty \
-  ttf-jetbrains-mono-nerd ttf-iosevka-nerd noto-fonts noto-fonts-emoji \
-  qt5ct qt6ct gtk3 gtk4 cava swayosd rsync
+sudo pacman -S \
+  hyprland hyprpaper hyprlock hypridle \
+  xdg-desktop-portal-hyprland \
+  waybar wofi dunst kitty \
+  neovim starship neofetch mpv dolphin \
+  pipewire pipewire-pulse wireplumber \
+  easyeffects satty rsync \
+  ttf-jetbrains-mono-nerd ttf-iosevka-nerd \
+  noto-fonts noto-fonts-emoji \
+  qt5ct qt6ct gtk3 gtk4 cava swayosd
 ```
 
-### AUR (via yay)
+</details>
+
+<details>
+<summary><b>AUR packages (via yay)</b></summary>
+
 ```bash
 yay -S hyprshot matugen wlogout ncspot yt-x
 ```
 
-### Fonts used
-- **JetBrains Mono Nerd Font** — terminal, clock, UI text
-- **Iosevka Nerd Font** — icons and symbols
+</details>
+
+<details>
+<summary><b>Fonts</b></summary>
+
+| Font | Used for |
+|------|----------|
+| JetBrains Mono Nerd Font | Terminal, clock, UI text |
+| Iosevka Nerd Font | Icons and symbols |
+
+</details>
 
 ---
 
@@ -64,48 +131,56 @@ cd ~/dotfiles
 bash install.sh
 ```
 
-The install script will:
-- Detect your distro (Arch or Fedora)
-- Install all required packages
-- Symlink configs to `~/.config/`
-- Install Everforest cursor themes
-- Enable PipeWire services
-- Add Starship to your `.zshrc`
+> [!NOTE]
+> Works on **Arch Linux** and **Fedora**. The script auto-detects your distro.
 
-> Existing configs are backed up with a `.bak` extension — nothing gets deleted.
+> [!TIP]
+> Existing configs are backed up as `.bak` files — nothing gets deleted.
+
+The install script handles:
+
+- ✅ Package installation (pacman or dnf)
+- ✅ Symlinking all configs to `~/.config/`
+- ✅ Everforest cursor theme installation
+- ✅ PipeWire service activation
+- ✅ Starship added to `.zshrc`
 
 ---
 
-## 🔄 Syncing (Arch only)
+## 🔒 Lock Screen
 
-If you want to sync changes back to the repo:
+Hyprlock is configured with a blurred Ghibli wallpaper, JetBrains Mono clock, and a minimal password field.
+
+To lock manually:
+
+```bash
+hyprlock
+```
+
+---
+
+## 🖼 SDDM Greeter
+
+If you're using the `matugen-minimal` SDDM theme, set the wallpaper with:
+
+```bash
+sudo cp ~/.config/Ghibli.png /usr/share/sddm/themes/matugen-minimal/wallpaper.jpg
+```
+
+---
+
+## 🔄 Syncing Changes
 
 ```bash
 bash sync.sh
 ```
 
----
-
-## 🎨 Colorscheme
-
-[Everforest](https://github.com/sainnhe/everforest) dark — colors managed via [matugen](https://github.com/InioX/matugen).
-
-| Role | Hex |
-|------|-----|
-| Background | `#1E2326` |
-| Foreground | `#D3C6AA` |
-| Accent (green) | `#A7C080` |
-| Red | `#E67E80` |
-| Surface | `#272E33` |
+Copies all configs and pushes to GitHub automatically.
 
 ---
 
-## 📝 Notes
+<div align="center">
 
-- Wallpaper lives at `~/.config/Ghibli.png`
-- If using SDDM with the `matugen-minimal` theme, copy the wallpaper manually:
-  ```bash
-  sudo cp ~/.config/Ghibli.png /usr/share/sddm/themes/matugen-minimal/wallpaper.jpg
-  ```
-- EasyEffects autostarts via `~/.config/autostart/`
-- Neovim uses [NvChad](https://nvchad.com/) as a base
+*built on arch, vibes from the forest* 🌲
+
+</div>
