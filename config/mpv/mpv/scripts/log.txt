@@ -1,0 +1,160 @@
+[   0.000][d][global] user path: 'log.txt' -> 'log.txt'
+[   0.001][v][cplayer] mpv v0.39.0 Copyright © 2000-2024 mpv/MPlayer/mplayer2 projects
+[   0.001][v][cplayer]  built on Nov 27 2024 18:31:26
+[   0.001][v][cplayer] libplacebo version: v7.349.0
+[   0.001][v][cplayer] FFmpeg version: n7.1
+[   0.001][v][cplayer] FFmpeg library versions:
+[   0.001][v][cplayer]    libavcodec      61.19.100
+[   0.001][v][cplayer]    libavdevice     61.3.100
+[   0.001][v][cplayer]    libavfilter     10.4.100
+[   0.001][v][cplayer]    libavformat     61.7.100
+[   0.001][v][cplayer]    libavutil       59.39.100
+[   0.001][v][cplayer]    libswresample   5.3.100
+[   0.001][v][cplayer]    libswscale      8.3.100
+[   0.001][v][cplayer] Configuration: -Db_pie=true -Dpython.bytecompile=1 -Dlibmpv=true -Dgl-x11=enabled -Dcaca=disabled -Dcdda=enabled -Ddvbin=enabled -Ddvdnav=enabled -Dlibarchive=enabled -Dopenal=enabled -Dprefix=/usr -Dlibexecdir=lib -Dsbindir=bin -Dauto_features=auto -Dbuildtype=plain -Dwrap_mode=nodownload
+[   0.001][v][cplayer] List of enabled features: alsa build-date cdda cplugins cuda-hwaccel cuda-interop dmabuf-interop-gl dmabuf-wayland drm dvbin dvdnav egl egl-drm egl-wayland egl-x11 ffmpeg ffnvcodec gbm gl gl-x11 glibc-thread-name glob glob-posix gpl iconv jack javascript jpeg lcms2 libarchive libass libavdevice libbluray libdl libplacebo linux-fstatfs luajit memfd-create memrchr openal pipewire posix posix-shm ppoll pthread-condattr-setclock pulse rubberband rubberband-3 sixel uchardet vaapi vaapi-drm vaapi-wayland vaapi-x11 vapoursynth vdpau vdpau-gl-x11 vector vk-khr-display vt.h vulkan wayland wayland-protocols-1-32 x11 xv zimg zimg-st428 zlib
+[   0.001][v][cplayer] Command line options: '--log-file=log.txt'
+[   0.001][v][cplayer] mpv v0.39.0 Copyright © 2000-2024 mpv/MPlayer/mplayer2 projects
+[   0.001][v][cplayer]  built on Nov 27 2024 18:31:26
+[   0.001][v][cplayer] libplacebo version: v7.349.0
+[   0.001][v][cplayer] FFmpeg version: n7.1
+[   0.001][v][cplayer] FFmpeg library versions:
+[   0.001][v][cplayer]    libavcodec      61.19.100
+[   0.001][v][cplayer]    libavdevice     61.3.100
+[   0.001][v][cplayer]    libavfilter     10.4.100
+[   0.001][v][cplayer]    libavformat     61.7.100
+[   0.001][v][cplayer]    libavutil       59.39.100
+[   0.001][v][cplayer]    libswresample   5.3.100
+[   0.001][v][cplayer]    libswscale      8.3.100
+[   0.001][v][cplayer] Configuration: -Db_pie=true -Dpython.bytecompile=1 -Dlibmpv=true -Dgl-x11=enabled -Dcaca=disabled -Dcdda=enabled -Ddvbin=enabled -Ddvdnav=enabled -Dlibarchive=enabled -Dopenal=enabled -Dprefix=/usr -Dlibexecdir=lib -Dsbindir=bin -Dauto_features=auto -Dbuildtype=plain -Dwrap_mode=nodownload
+[   0.001][v][cplayer] List of enabled features: alsa build-date cdda cplugins cuda-hwaccel cuda-interop dmabuf-interop-gl dmabuf-wayland drm dvbin dvdnav egl egl-drm egl-wayland egl-x11 ffmpeg ffnvcodec gbm gl gl-x11 glibc-thread-name glob glob-posix gpl iconv jack javascript jpeg lcms2 libarchive libass libavdevice libbluray libdl libplacebo linux-fstatfs luajit memfd-create memrchr openal pipewire posix posix-shm ppoll pthread-condattr-setclock pulse rubberband rubberband-3 sixel uchardet vaapi vaapi-drm vaapi-wayland vaapi-x11 vapoursynth vdpau vdpau-gl-x11 vector vk-khr-display vt.h vulkan wayland wayland-protocols-1-32 x11 xv zimg zimg-st428 zlib
+[   0.001][d][global] home path: '' -> '/home/ethan/.config/mpv'
+[   0.001][d][global] user path: '~~home/' -> '/home/ethan/.config/mpv'
+[   0.001][d][global] user path: '~~old_home/' -> '/home/ethan/.mpv'
+[   0.001][d][global] config path: 'encoding-profiles.conf' -/-> '/home/ethan/.config/mpv/encoding-profiles.conf'
+[   0.001][d][global] config path: 'encoding-profiles.conf' -/-> '/home/ethan/.mpv/encoding-profiles.conf'
+[   0.001][d][global] config path: 'encoding-profiles.conf' -> '/etc/mpv/encoding-profiles.conf'
+[   0.001][v][cplayer] Reading config file /etc/mpv/encoding-profiles.conf
+[   0.001][v][ifo_dvdnav] Opening /etc/mpv/encoding-profiles.conf
+[   0.001][v][bdmv/bluray] Opening /etc/mpv/encoding-profiles.conf
+[   0.001][v][file] Opening /etc/mpv/encoding-profiles.conf
+[   0.001][d][file] resize stream to 131072 bytes, drop 0 bytes
+[   0.001][d][file] Stream opened successfully.
+[   0.001][v][cplayer] Applying profile 'default'...
+[   0.001][d][global] config path: 'mpv.conf' -> '/home/ethan/.config/mpv/mpv.conf'
+[   0.001][d][global] config path: 'config' -/-> '/home/ethan/.config/mpv/config'
+[   0.001][d][global] config path: 'mpv.conf' -/-> '/home/ethan/.mpv/mpv.conf'
+[   0.001][d][global] config path: 'config' -/-> '/home/ethan/.mpv/config'
+[   0.001][d][global] config path: 'mpv.conf' -/-> '/etc/mpv/mpv.conf'
+[   0.001][d][global] config path: 'config' -/-> '/etc/mpv/config'
+[   0.001][v][cplayer] Reading config file /home/ethan/.config/mpv/mpv.conf
+[   0.001][v][ifo_dvdnav] Opening /home/ethan/.config/mpv/mpv.conf
+[   0.001][v][bdmv/bluray] Opening /home/ethan/.config/mpv/mpv.conf
+[   0.001][v][file] Opening /home/ethan/.config/mpv/mpv.conf
+[   0.002][d][file] resize stream to 131072 bytes, drop 0 bytes
+[   0.002][d][file] Stream opened successfully.
+[   0.002][v][cplayer] Applying profile 'default'...
+[   0.002][v][cplayer] Setting option 'osc' = 'yes' (flags = 4)
+[   0.002][v][cplayer] Setting option 'script-opts' = 'osc-layout=bottombar' (flags = 4)
+[   0.002][v][cplayer] Setting option 'log-file' = 'log.txt' (flags = 8)
+[   0.003][d][global] config path: 'input.conf' -/-> '/home/ethan/.config/mpv/input.conf'
+[   0.003][d][global] config path: 'input.conf' -/-> '/home/ethan/.mpv/input.conf'
+[   0.003][d][global] config path: 'input.conf' -/-> '/etc/mpv/input.conf'
+[   0.003][d][global] user path: 'log.txt' -> 'log.txt'
+[   0.003][d][osc] Loading lua script @osc.lua...
+[   0.003][d][ytdl_hook] Loading lua script @ytdl_hook.lua...
+[   0.003][d][stats] Loading lua script @stats.lua...
+[   0.004][d][console] Loading lua script @console.lua...
+[   0.004][d][osc] loading mp.defaults
+[   0.004][d][auto_profiles] Loading lua script @auto_profiles.lua...
+[   0.004][d][ytdl_hook] loading mp.defaults
+[   0.004][d][select] Loading lua script @select.lua...
+[   0.004][d][stats] loading mp.defaults
+[   0.004][i][cplayer] mpv v0.39.0 Copyright © 2000-2024 mpv/MPlayer/mplayer2 projects
+[   0.004][i][cplayer]  built on Nov 27 2024 18:31:26
+[   0.004][i][cplayer] libplacebo version: v7.349.0
+[   0.004][i][cplayer] FFmpeg version: n7.1
+[   0.004][i][cplayer] FFmpeg library versions:
+[   0.004][i][cplayer]    libavcodec      61.19.100
+[   0.004][i][cplayer]    libavdevice     61.3.100
+[   0.004][i][cplayer]    libavfilter     10.4.100
+[   0.004][i][cplayer]    libavformat     61.7.100
+[   0.004][i][cplayer]    libavutil       59.39.100
+[   0.004][i][cplayer]    libswresample   5.3.100
+[   0.004][i][cplayer]    libswscale      8.3.100
+[   0.004][i][cplayer] Usage:   mpv [options] [url|path/]filename
+[   0.004][i][cplayer] 
+[   0.004][i][cplayer] Basic options:
+[   0.004][i][cplayer]  --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+[   0.004][i][cplayer]  --no-audio        do not play sound
+[   0.004][i][cplayer]  --no-video        do not play video
+[   0.004][i][cplayer]  --fs              fullscreen playback
+[   0.004][i][cplayer]  --sub-file=<file> specify subtitle file to use
+[   0.004][i][cplayer]  --playlist=<file> specify playlist file
+[   0.004][i][cplayer] 
+[   0.004][i][cplayer]  --list-options    list all mpv options
+[   0.004][i][cplayer]  --h=<string>      print options which contain the given string in their name
+[   0.004][d][auto_profiles] loading mp.defaults
+[   0.004][d][console] loading mp.defaults
+[   0.004][d][ytdl_hook] loading @ytdl_hook.lua
+[   0.004][d][stats] loading @stats.lua
+[   0.004][d][auto_profiles] loading @auto_profiles.lua
+[   0.005][d][console] loading @console.lua
+[   0.005][d][ytdl_hook] reading options for ytdl_hook
+[   0.005][d][global] config path: 'script-opts/ytdl_hook.conf' -/-> '/home/ethan/.config/mpv/script-opts/ytdl_hook.conf'
+[   0.005][d][global] config path: 'script-opts/ytdl_hook.conf' -/-> '/home/ethan/.mpv/script-opts/ytdl_hook.conf'
+[   0.005][d][global] config path: 'script-opts/ytdl_hook.conf' -/-> '/etc/mpv/script-opts/ytdl_hook.conf'
+[   0.005][d][ytdl_hook] script-opts/ytdl_hook.conf not found.
+[   0.005][d][global] config path: 'lua-settings/ytdl_hook.conf' -/-> '/home/ethan/.config/mpv/lua-settings/ytdl_hook.conf'
+[   0.005][d][global] config path: 'lua-settings/ytdl_hook.conf' -/-> '/home/ethan/.mpv/lua-settings/ytdl_hook.conf'
+[   0.005][d][global] config path: 'lua-settings/ytdl_hook.conf' -/-> '/etc/mpv/lua-settings/ytdl_hook.conf'
+[   0.005][d][ytdl_hook] lua-settings/ytdl_hook.conf not found.
+[   0.006][d][select] loading mp.defaults
+[   0.007][d][ytdl_hook] Exiting...
+[   0.007][d][select] loading @select.lua
+[   0.007][d][osc] loading @osc.lua
+[   0.007][d][console] reading options for console
+[   0.007][d][global] config path: 'script-opts/console.conf' -/-> '/home/ethan/.config/mpv/script-opts/console.conf'
+[   0.007][d][global] config path: 'script-opts/console.conf' -/-> '/home/ethan/.mpv/script-opts/console.conf'
+[   0.007][d][global] config path: 'script-opts/console.conf' -/-> '/etc/mpv/script-opts/console.conf'
+[   0.007][d][console] script-opts/console.conf not found.
+[   0.007][d][global] config path: 'lua-settings/console.conf' -/-> '/home/ethan/.config/mpv/lua-settings/console.conf'
+[   0.007][d][global] config path: 'lua-settings/console.conf' -/-> '/home/ethan/.mpv/lua-settings/console.conf'
+[   0.007][d][global] config path: 'lua-settings/console.conf' -/-> '/etc/mpv/lua-settings/console.conf'
+[   0.007][d][console] lua-settings/console.conf not found.
+[   0.007][d][select] Exiting...
+[   0.007][d][console] Exiting...
+[   0.007][d][auto_profiles] Exiting...
+[   0.008][d][stats] reading options for stats
+[   0.008][d][global] config path: 'script-opts/stats.conf' -/-> '/home/ethan/.config/mpv/script-opts/stats.conf'
+[   0.008][d][global] config path: 'script-opts/stats.conf' -/-> '/home/ethan/.mpv/script-opts/stats.conf'
+[   0.008][d][global] config path: 'script-opts/stats.conf' -/-> '/etc/mpv/script-opts/stats.conf'
+[   0.008][d][stats] script-opts/stats.conf not found.
+[   0.008][d][global] config path: 'lua-settings/stats.conf' -/-> '/home/ethan/.config/mpv/lua-settings/stats.conf'
+[   0.008][d][global] config path: 'lua-settings/stats.conf' -/-> '/home/ethan/.mpv/lua-settings/stats.conf'
+[   0.008][d][global] config path: 'lua-settings/stats.conf' -/-> '/etc/mpv/lua-settings/stats.conf'
+[   0.008][d][stats] lua-settings/stats.conf not found.
+[   0.008][d][stats] Exiting...
+[   0.009][d][cplayer] Run command: define-section, flags=64, args=[name="showhide", contents="mouse_move script-binding osc/__keybinding1\nmouse_leave script-binding osc/__keybinding2\n", flags="force"]
+[   0.009][d][cplayer] Run command: define-section, flags=64, args=[name="showhide_wc", contents="mouse_move script-binding osc/__keybinding3\nmouse_leave script-binding osc/__keybinding4\n", flags="force"]
+[   0.009][d][cplayer] Run command: enable-section, flags=64, args=[name="showhide", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.009][d][cplayer] Run command: enable-section, flags=64, args=[name="showhide_wc", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.009][d][cplayer] Run command: define-section, flags=64, args=[name="input", contents="mbtn_left script-binding osc/__keybinding5\nshift+mbtn_left script-binding osc/__keybinding6\nmbtn_right script-binding osc/__keybinding7\nmbtn_mid script-binding osc/__keybinding8\nwheel_up script-binding osc/__keybinding9\nwheel_down script-binding osc/__keybinding10\nmbtn_left_dbl ignore\nshift+mbtn_left_dbl ignore\nmbtn_right_dbl ignore\n", flags="force"]
+[   0.009][d][cplayer] Run command: enable-section, flags=64, args=[name="input", flags=""]
+[   0.009][d][cplayer] Run command: define-section, flags=64, args=[name="window-controls", contents="mbtn_left script-binding osc/__keybinding11\n", flags="force"]
+[   0.009][d][cplayer] Run command: enable-section, flags=64, args=[name="window-controls", flags=""]
+[   0.009][d][osc] reading options for osc
+[   0.009][d][global] config path: 'script-opts/osc.conf' -/-> '/home/ethan/.config/mpv/script-opts/osc.conf'
+[   0.009][d][global] config path: 'script-opts/osc.conf' -/-> '/home/ethan/.mpv/script-opts/osc.conf'
+[   0.009][d][global] config path: 'script-opts/osc.conf' -/-> '/etc/mpv/script-opts/osc.conf'
+[   0.009][d][osc] script-opts/osc.conf not found.
+[   0.010][d][global] config path: 'lua-settings/osc.conf' -/-> '/home/ethan/.config/mpv/lua-settings/osc.conf'
+[   0.010][d][global] config path: 'lua-settings/osc.conf' -/-> '/home/ethan/.mpv/lua-settings/osc.conf'
+[   0.010][d][global] config path: 'lua-settings/osc.conf' -/-> '/etc/mpv/lua-settings/osc.conf'
+[   0.010][d][osc] lua-settings/osc.conf not found.
+[   0.010][v][cplayer] Set property: user-data/osc/visibility="auto" -> 1
+[   0.010][d][cplayer] Run command: disable-section, flags=64, args=[name="input"]
+[   0.010][d][cplayer] Run command: disable-section, flags=64, args=[name="window-controls"]
+[   0.010][v][cplayer] Set property: user-data/osc/margins={"r":0,"b":0,"l":0,"t":0} -> 1
+[   0.010][d][cplayer] Run command: del, flags=64, args=[name="user-data/osc"]
+[   0.010][d][osc] Exiting...
